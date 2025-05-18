@@ -1,0 +1,127 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	padding-top: 54px;
+	padding-bottom: 180px;
+}
+
+.html {
+	margin-left: 52px;
+	width: 223px;
+	height: 58px;
+}
+
+nav, ul, li {
+	display: inline;
+}
+
+a {
+	font-size: 26px;
+	color: #8D81FF;
+	text-decoration: none;
+	vertical-align: 20px;
+	margin-left: 60px;
+	font-weight: bold;
+
+}
+
+#active {
+	color: #4E6FAE;
+}
+
+.grey {
+	background: #E7E7E7;
+	margin-top: 31px;
+	height: 735px;
+	display: block;
+	margin-bottom: 104px;
+	padding-top: 93px;
+	padding-left: 162px;
+	padding-bottom: 93px;
+	box-sizing: border-box;
+}
+
+#facebook {
+	width: 50px;
+	height: 50px;
+	margin-left: 96px;
+}
+
+
+#youtube {
+	width: 71px;
+	height: 49px;
+	margin-left: 41px;
+}
+
+
+.purpleline {
+	background-color: #5012D5;
+	width: 2px;
+	height: 48px;
+	display: inline-block;
+	margin-left: 41px;
+	vertical-align: -1px;
+
+}
+
+
+.headeri {
+	color: #4E6FAE;
+	font-size: 36px;
+	font-weight: bold;
+	margin-right: 40px;
+}
+
+
+.pirveli {
+	font-size: 20px;
+	color: #7E8898;
+	margin-top: 27px;
+	width: 307;
+	margin-bottom: 23px;
+
+}
+
+
+#ruka {
+	vertical-align: 80px;
+}
+
+
+.divivar {
+	width: 514px;
+	height: 507px;
+	display: inline-block;
+	vertical-align: 450px;
+}
+
+
+b {
+	font-weight: normal;
+	color: #3F4145;
+
+}
+
+
+.para {
+	display: inline-block;
+	width: 307px;
+	margin-top: 27px;
+	margin-bottom: 23px;
+}
+
+.para2 {
+	display: inline-block;
+	width: 217px;
+	margin-bottom: 11px;
+}
+
+.para3 {
+	display: inline-block;
+}
+
+

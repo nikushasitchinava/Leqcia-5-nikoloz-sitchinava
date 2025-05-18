@@ -2,3 +2,134 @@
 	margin: 0;
 	padding: 0;
 }
+
+body {
+	padding-left: 52px;
+	padding-top: 54px;
+	padding-bottom: 286px;
+}
+
+.html {
+	width: 223px;
+	height: 58px;
+}
+
+nav, ul, li {
+	display: inline;
+}
+
+a {
+	font-size: 26px;
+	color: #8D81FF;
+	text-decoration: none;
+	vertical-align: 20px;
+	margin-left: 60px;
+	font-weight: bold;
+
+}
+
+.purple {
+	background-color: #5012D5;
+	width: 50px;
+	height: 50px;
+	margin-top: 54px;
+}
+
+.cifrebi {
+	color: #84FF81;
+	font-size: 24px;
+	padding: 8px 8px 8px 11px;
+}
+
+
+#active {
+	color: #4E6FAE;
+}
+
+.may {
+	color: #8D81FF;
+	margin-top: 18px;
+	font-size: 24px;
+}
+
+.satauri {
+	color: #4E6FAE;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 8px;
+}
+
+
+.fotoebi {
+	margin-top: 13px;
+}
+
+
+.para1 {
+	font-size: 16px;
+	color: #4E6FAE;
+	display: inline-block;
+	width: 778px;
+	margin-left: 66px;
+	vertical-align: top;
+    margin-top: 8px;
+}
+
+
+.spani {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+
+.purple2 {
+	background-color: #5012D5;
+	width: 50px;
+	height: 50px;
+	margin-top: 153px;
+}
+
+
+.purple3 {
+	background-color: #5012D5;
+	width: 50px;
+	height: 50px;
+	margin-top: 155px;
+}
+
+
+.warwera2 {
+	font-size: 16px;
+	color: #4E6FAE;
+	display: block;
+	width: 1021px;
+	vertical-align: top;
+    margin-top: 32px;
+}
+
+
+#facebook {
+	width: 50px;
+	height: 50px;
+	margin-top: 91px;
+}
+
+
+#youtube {
+	width: 71px;
+	height: 49px;
+	margin-left: 41px;
+	margin-top: 91px;
+}
+
+
+.purpleline {
+	background-color: #5012D5;
+	width: 2px;
+	height: 48px;
+	display: inline-block;
+	margin-left: 41px;
+	vertical-align: -1px;
+
+}
+

@@ -1,0 +1,166 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.html {
+	width: 223px;
+	height: 58px;
+	margin-left: 52px;
+	margin-top: 54px;
+}
+
+
+body {
+	padding-bottom: 194px;
+}
+
+
+nav, ul, li {
+	display: inline;
+}
+
+a {
+	font-size: 26px;
+	color: #8D81FF;
+	text-decoration: none;
+	vertical-align: 20px;
+	margin-left: 60px;
+	font-weight: bold;
+
+}
+
+#active {
+	color: #4E6FAE;
+}
+
+#htmlfoto {
+	display: block;
+	width: 1052px;
+	height: 462px;
+	margin: 0px auto;
+	margin-top: 85px;
+}
+
+
+/* ამის დაბლა რაცაა გადაწერე */
+
+
+.siaxleebi {
+	font-size: 26px;
+	color: #4E6FAE;
+	margin-left: 432px;
+	margin-top: 120px;
+	display: inline-block;
+	margin-bottom: 26px;
+}
+
+
+.purpleline {
+	background-color: #5012D5;
+	width: 2px;
+	height: 24px;
+	display: inline-block;
+	margin-left: 18px;
+	vertical-align: -5px;
+
+}
+
+
+.siaxleebi2 {
+	font-size: 26px;
+	color: #4E6FAE;
+	margin-left: 17px;
+	margin-top: 120px;
+	display: inline-block;
+}
+
+
+.nacrisfericharcho {
+	background-color: #E7E7E7;
+	margin-left: 432px;
+	width: 500px;
+	height: 192px;
+	display: inline-block;
+	padding-left: 23px;
+	padding-top: 21px;
+	box-sizing: border-box;
+}
+
+
+.nacrisfericharcho2 {
+	background-color: #E7E7E7;
+	margin-left: 52px;
+	width: 500px;
+	height: 192px;
+	display: inline-block;
+	margin-right: 255spx;
+	padding-left: 29px;
+	padding-top: 21px;
+	box-sizing: border-box;
+	vertical-align: 7px;
+	margin-bottom: 91px;
+}
+
+
+#facebook {
+	width: 50px;
+	height: 50px;
+	margin-left: 432px;
+}
+
+
+.purpleline2 {
+	background-color: #5012D5;
+	width: 2px;
+	height: 48px;
+	display: inline-block;
+	margin-left: 41px;
+	vertical-align: -1px;
+
+}
+
+
+#youtube {
+	width: 71px;
+	height: 49px;
+	margin-left: 41px;
+}
+
+
+
+
+
+
+/* ამის დაბლა რაცაა გადაწერე */
+
+
+.text1 {
+	font-size: 20px;
+	color: #3F4145;
+	display: inline-block;
+	width: 400px;
+}
+
+
+#foto3 {
+	width: 77px;
+	height: 77px;
+	margin-top: 29px;
+	margin-left: 16px;
+}
+
+.text2 {
+	font-size: 16px;
+	color: #7E8898;
+	display: inline-block;
+	width: 335px;
+	margin-left: 20px;
+}
+
+
+#foto4 {
+	width: 89px;
+	height: 89px;
+	display: inline-block;
+}
