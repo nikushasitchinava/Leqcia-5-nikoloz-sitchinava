@@ -135,6 +135,13 @@ a {
 	color: #3F4145;
 	display: inline-block;
 	width: 400px;
+	font-family: "Roboto", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
+  	font-variation-settings:
+    "wdth" 100;
+    font-weight: 400;
 }
 
 
@@ -143,6 +150,7 @@ a {
 	height: 77px;
 	margin-top: 19px;
 	margin-left: 16px;
+
 }
 
 .text2 {
