@@ -85,6 +85,7 @@ a {
 	padding-left: 23px;
 	padding-top: 21px;
 	box-sizing: border-box;
+	vertical-align: 25px;
 }
 
 
@@ -129,11 +130,6 @@ a {
 
 
 
-
-
-
-
-
 .text1 {
 	font-size: 20px;
 	color: #3F4145;
@@ -145,7 +141,7 @@ a {
 #foto3 {
 	width: 77px;
 	height: 77px;
-	margin-top: 29px;
+	margin-top: 19px;
 	margin-left: 16px;
 }
 
@@ -155,6 +151,13 @@ a {
 	display: inline-block;
 	width: 335px;
 	margin-left: 20px;
+	font-family: "Roboto", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
+  	font-variation-settings:
+    "wdth" 100;
+    font-weight: 400;
 }
 
 
@@ -162,4 +165,5 @@ a {
 	width: 89px;
 	height: 89px;
 	display: inline-block;
+	margin-top: 15px;
 }
